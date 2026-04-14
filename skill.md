@@ -12,7 +12,7 @@
 
 ## 產品線上下文
 
-**負責產品線：** Copy Trading｜Futures Grid｜Contract DCA｜Contract Martingale｜AI Hub
+**負責產品線：** Copy Trading｜Futures Grid｜Futures DCA｜Spot DCA｜｜Spot Grid ｜AI Hub ｜ Signal Trading
 
 **競品追蹤維度：**
 | 維度 | 關注點 |
@@ -20,11 +20,14 @@
 | 網格交易 | 參數設計、安全係數、保證金公式 |
 | 跟單交易 | 策略展示、分享海報、帶單員機制 |
 | AI Skill | 入口設計、策略推薦邏輯、Hub 架構 |
-
+| DCA交易 | 參數設計、安全係數、保證金公式 |
 **當前 Sprint（Q2 2026）：**
-1. Contract Martingale — P0 must-ship，4/30 deadline
-2. Contract DCA — dev-complete，web-only
-3. Copy Trading Share v2.0 — strategy poster + trade poster
+1. Futures Martingale — P0 must-ship，4/30 deadline / dev-complete，web-only
+2. Futures DCA —
+3. Spot Grid
+4. AI Strategy
+5. Spot DCA
+
 
 ---
 
